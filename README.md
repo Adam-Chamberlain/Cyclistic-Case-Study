@@ -90,9 +90,11 @@ GROUP BY month
 ORDER BY month
 ```
 This showed me the total amount of rides that happened each month from annual members, casual riders, the two groups combined per month. This allowed me to create the following charts:
+
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/693b36ed-391d-4d8e-ae38-4e4cbf7d11b8)
 
 Overall, there were a major decrease in rides during winter months, as expected in Chicago, where it gets very cold and snows a lot during the winter. Members also consistently take about 100,000 more rides than casual riders every single month.
+
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/7385edc2-35e7-4906-9bde-dfeceddb14f8)
 
 However, percentage of casual riders decreased significantly in winter months. This further added to the theory that casual riders use bikes for recreation, and annual members ride bikes daily for work commutes.
@@ -112,6 +114,7 @@ ORDER BY dates
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/8fb53a78-22c1-4f2d-ae22-578378a78ed0)
 
 Members ride bikes much more frequently throughout weekdays, which is expected if they are using bikes to commute to work, and there is a massive increase in casual rides throughout the weekend, likely due to them using bikes for recreational purposes.
+
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/41ef0d89-c6a5-4ffb-b8bf-cb19c3f0fd44)
 
 I also looked at the average ride length for each day and each group. Casual riders tend to ride bikes for a much longer period of time, which peaks during weekends. However, annual members ride for an extremely consistent amount of time from Monday through Friday; this showed that it is likely the same people that made the same commute every single day.
@@ -131,12 +134,14 @@ ORDER BY hour
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/edc7846d-46b4-421f-a3fb-57c8f5338caa)
 
 As expected, annual members see a huge spike in rides at 8 AM and 5 PM, which is when they are likely riding to and from work. Casual riders see a slow increase in the number of rides throughout the afternoon.
+
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/890e6444-d4b4-4a67-82b8-133e23a413a7)
 
 I also looked at the data for Saturday only, which showed an extremely similar trend between the two rider groups. On Saturday, less people are working, so it is to be expected that annual members are not riding their bikes more frequently at 8 AM and 5 PM, unlike the prior chart.
 
 #### Rides per Day
 Lastly, I took a look at how the number of rides differed between all 366 days included in the data. I found some interesting outlier points, which I highlighted below:
+
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/b1f7dd3d-04ee-4e52-be15-61355492060f)
 Most peaks were due to good weather, especially in the summer. There were also multiple peaks for annual members during weekdays in the fall, which were work days with great weather. Like the Total Monthly Rides chart, I found a major decrease in winter months, but annual members ride much more frequently than casual riders in these months.
 
