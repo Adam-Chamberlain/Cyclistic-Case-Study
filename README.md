@@ -112,7 +112,7 @@ ORDER BY dates
 ![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/8fb53a78-22c1-4f2d-ae22-578378a78ed0)
 
 Members ride bikes much more frequently throughout weekdays, which is expected if they are using bikes to commute to work, and there is a massive increase in casual rides throughout the weekend, likely due to them using bikes for recreational purposes.
-![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/9c1421f8-80cd-4c00-ae60-a13b2dfde68c)
+![image](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study/assets/173857433/41ef0d89-c6a5-4ffb-b8bf-cb19c3f0fd44)
 
 I also looked at the average ride length for each day and each group. Casual riders tend to ride bikes for a much longer period of time, which peaks during weekends. However, annual members ride for an extremely consistent amount of time from Monday through Friday; this showed that it is likely the same people that made the same commute every single day.
 
